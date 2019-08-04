@@ -1,3 +1,5 @@
-Este é apenas um teste.
+Este ï¿½ apenas um teste.
 
 segunda linha
+
+terceira linha
